@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋  I am expert in below 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c#,react,nextjs,sql,azure,aws,nodejs)](https://skillicons.dev)
 
