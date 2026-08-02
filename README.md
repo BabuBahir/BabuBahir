@@ -1,8 +1,7 @@
 ## Hi there 👋  I am expert in below 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c#,react,nextjs,sql,azure,aws,nodejs)](https://skillicons.dev)
-
-![MR R's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabuBahir&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BabuBahir&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **BabuBahir/BabuBahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
