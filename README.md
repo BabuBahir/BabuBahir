@@ -1,6 +1,12 @@
 ## Hi there 👋  I am expert in below 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c#,react,nextjs,sql,azure,aws,nodejs)](https://skillicons.dev)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">  
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100">  
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100">
+</div>
+ 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BabuBahir&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **BabuBahir/BabuBahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
