@@ -1,0 +1,18 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-priority: high
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24f1138/github-profile-summary-cards@v2.5.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: BabuBahir
